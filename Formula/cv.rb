@@ -1,7 +1,7 @@
 class Cv < Formula
   desc "Custom computer vision library"
-  homepage "https://github.com/YOUR_USERNAME/cv"
-  url "https://github.com/YOUR_USERNAME/cv/archive/refs/tags/v0.1.0.tar.gz"
+  homepage "https://github.com/tuniet/cvlib"
+  url "https://github.com/tuniet/cvlib/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "PUT_SHA256_HERE"
   license "MIT"
 

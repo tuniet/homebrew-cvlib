@@ -2,7 +2,7 @@ class Cv < Formula
   desc "Custom computer vision library"
   homepage "https://github.com/tuniet/cvlib"
   url "https://github.com/tuniet/cvlib/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "8ba7b8429572474ce89d5cfebe1aab8ccd64a08f13b81cd43dec53308090beba  cv.tar.gz"
+  sha256 "8ba7b8429572474ce89d5cfebe1aab8ccd64a08f13b81cd43dec53308090beba"
   license "MIT"
 
   depends_on "cmake"

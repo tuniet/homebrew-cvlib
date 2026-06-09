@@ -1,4 +1,4 @@
-class CvLib < Formula
+class Cv < Formula
   desc "Custom computer vision library"
   homepage "https://github.com/tuniet/cvlib"
   url "https://github.com/tuniet/cvlib/archive/refs/tags/v0.1.0.tar.gz"
